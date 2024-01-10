@@ -1,0 +1,326 @@
+body {
+    background-color: #F5FFFA;
+}
+p {
+    color: #252525;
+    font-family: 'Karla', sans-serif;
+    font-size: 1.125rem;
+}
+h1, h2, h3, h4, h5, h6 {
+    color: #6D9886;
+    font-family: 'Merriweather', serif;
+    text-align: center;
+}
+h1 {
+  font-size: 3.75rem;
+}
+h2 {
+  font-size: 2.95rem;
+}
+h3 {
+  font-size: 2.85rem;
+}
+h4 {
+  font-size: 2.75rem;
+}
+h5 {
+  font-size: 2.65rem;
+}
+h6 {
+  font-size: 2.55rem;
+}
+div.carousel-caption > h5 {
+    font-size: 0.9375rem;
+    background-color: rgba(245, 255, 250, 0.6);
+    width: 20%;
+    position: relative;
+    left: 43%;
+    padding: 5px;
+    color: #393E46;
+}
+img {
+    height: 18.75rem;
+    width: auto;
+    padding: 1.875rem;
+}
+button {
+    position: relative;
+    left: 45%
+}
+hr {
+    border-top: #6D9886 4px dashed;
+    width: 37.5rem;
+    position: relative;
+    left: 30%;
+}
+a {
+    color: #6D9886;
+    text-decoration: none;
+    font-family: 'Merriweather', serif;
+    font-size: 1.25rem;
+}
+input, textarea {
+    background-color:#F5FFFA;
+    width: 40%;
+}
+footer {
+    margin-top: 1.875;
+}
+label {
+  padding-top: 0.625rem;
+  padding-bottom: 0.125rem;
+}
+div.title > h1 {
+  font-size: 2.75rem;
+  position: relative;
+  left: 12%;
+  width: 80%;
+  padding: 1rem;
+}
+header {
+  background-color: #F5FFFA;
+  outline: #F5FFFA;
+  padding: 0.3125rem;
+}
+.dropdown {
+  background-color: #F5FFFA;
+  color: #252525;
+}
+.dropdown-item, .dropdown-menu {
+  background-color: #F5FFFA;
+}
+.dropdown-item:hover {
+  background-color: #d3e4db;
+  color: #252525;
+}
+.form-control {
+  width: 30%;
+} 
+.form-label, .form-control {
+  position: relative;
+  left: 33%;
+}
+.navbar-nav {
+  position: relative;
+  left: 34%;
+}
+.boas-vindas {
+    width: 65.25rem;
+    position: relative;
+    left: 13%;
+    text-align: center;
+    padding: 5.625rem;
+}
+.title {
+  text-align: center;
+  padding: 4rem;
+}
+.caption {
+    font-size: 1.25rem;
+    font-weight: 700;
+}
+.text-about {
+    width: 68.75rem;
+    position: relative;
+    left: 12.5rem;
+    text-align: justify;
+    padding: 2.5rem;
+}
+.skilling {
+  margin-top: 1.875rem;
+  margin-bottom: 1.875rem;
+}
+.skilling > img {
+  width: 65rem;
+  height: auto;
+}
+.skillrender {
+ width: 30%;
+ height: auto;
+}
+.skill-level {
+  width: 50%;
+  height: auto;
+}
+.imgindex {
+    height: 56.25rem;
+    height: auto;
+}
+.imgindex:hover {
+    background-color: #393E46;
+    opacity: 0.4;
+}
+.contact{
+    padding: 4.375rem;
+}
+.contact > h2 {
+    font-size: 2.5rem;
+}
+.button {
+    border-style: #6D9886 4px solid;
+    position: relative;
+    left: 38.125rem;
+    width: 10%;
+}
+.galvao {
+    width: 100%;
+    height: auto;
+}
+.planta {
+    width: 56.25rem;
+    height: auto;
+}
+.opcao {
+    width: 37.5rem;
+    height: auto;
+}
+.footer {
+    text-align: center;
+}
+.carousel-control-next {
+  left: 81.5%;
+}
+.horrule {
+  padding-top: 1.25rem;
+  padding-bottom: 1.25rem;
+}
+.articles {
+  padding: 2rem;
+}
+strong.thepage {
+  color: #6D9886;
+  font-size: 1.15rem;
+}
+img#research {
+  width: 70%;
+  height: auto;
+}
+#welcome {
+    padding-bottom: 3.125rem;
+    font-size: 3.75rem;
+}
+#bemvindo {
+  font-size: 1.175rem;
+}
+#aboutme {
+  font-size: 1.2rem;
+  width: 80%;
+  position: relative;
+  left: 13%;
+  padding: 1.25rem;
+}
+#sobre {
+  position: relative;
+  left: 14%;
+  width: 80%;
+}
+#work {
+  padding: 3.125rem;
+  width: 50%;
+}
+#skills {
+    padding: 3.125rem;
+    width: 50%;
+}
+#work, #skills {
+  position: relative;
+  left: 25%;
+}
+#contact-form {
+  padding: 2.5rem;
+}
+#downloadcv {
+    padding: 3.125rem;
+}
+#imglucas {
+    border-radius: 70%;
+}
+#wilkomm {
+  padding-bottom: 3.125rem;
+}
+#gallerie {
+  padding-top: 2.5rem;
+  padding-bottom: 2.5rem;
+}
+@media (max-width: 600px) {
+  .responsive {
+    margin: 6px 0;
+  }
+  .boas-vindas {
+    width: 100%;
+  }
+  h1 {
+    font-size: 2.75rem;
+  }
+  h2 {
+    font-size: 1.95rem;
+  }
+  h3 {
+    font-size: 1.85rem;
+  }
+  h4 {
+    font-size: 1.75rem;
+  }
+  h5 {
+    font-size: 1.65rem;
+  }
+  h6 {
+    font-size: 1.55rem;
+  }
+  hr {
+    position: relative;
+    left: 3.75rem;
+    border-width: 2.5px;
+    width: 70%;
+  }
+  button {
+    position: relative;
+    left: 33%;
+  }
+  footer {
+    margin: 0.75rem;
+  }
+  div.text-about {
+    width: 80%;
+    position: relative;
+    left: 2.80rem;
+    text-align: left;
+  }
+  img {
+    width: 24.75rem;
+    height: auto;
+  }
+  div.contact > h2 {
+    margin-bottom: 1.875rem;
+    text-align: center;
+  }
+  .caption {
+    text-align: center;
+    font-size: 1.75rem;
+  }
+  .title > h1 {
+    padding: 2.5rem;
+  }
+  #aboutme > p {
+    font-size: 1rem;
+  }
+  #welcome {
+    text-align: left;
+    font-size: 2.75rem;
+  }
+ /* padding: 0 6px;
+  float: left;
+  width: 24.99999%; -> idk where to put this yet*/
+}
+.col-1 {width: 8.33%;}
+.col-2 {width: 16.66%;}
+.col-3 {width: 25%;}
+.col-4 {width: 33.33%;}
+.col-5 {width: 41.66%;}
+.col-6 {width: 50%;}
+.col-7 {width: 58.33%;}
+.col-8 {width: 66.66%;}
+.col-9 {width: 75%;}
+.col-10 {width: 83.33%;}
+.col-11 {width: 91.66%;}
+.col-12 {width: 100%;}
